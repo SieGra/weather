@@ -1,0 +1,15 @@
+
+Tue, 28 Aug 2018 16:11:25 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"base":"stations","main":{"temp":17.71,"pressure":1013,"humidity":72,"temp_min":16,"temp_max":19},"visibility":10000,"wind":{"speed":4.1,"deg":270},"clouds":{"all":20},"dt":1535469600,"sys":{"type":1,"id":5271,"message":0.006,"country":"NO","sunrise":1535429632,"sunset":1535482632},"id":3163392,"name":"Alesund","cod":200}
+
+Tue, 28 Aug 2018 16:26:25 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"base":"stations","main":{"temp":17.71,"pressure":1013,"humidity":77,"temp_min":16,"temp_max":19},"visibility":10000,"wind":{"speed":4.6,"deg":270},"clouds":{"all":20},"dt":1535471400,"sys":{"type":1,"id":5271,"message":0.0017,"country":"NO","sunrise":1535429634,"sunset":1535482629},"id":3163392,"name":"Alesund","cod":200}
+
+Tue, 28 Aug 2018 16:41:25 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"base":"stations","main":{"temp":17.71,"pressure":1013,"humidity":77,"temp_min":16,"temp_max":19},"visibility":10000,"wind":{"speed":4.6,"deg":270},"clouds":{"all":20},"dt":1535471400,"sys":{"type":1,"id":5271,"message":0.002,"country":"NO","sunrise":1535429635,"sunset":1535482627},"id":3163392,"name":"Alesund","cod":200}
+
+Tue, 28 Aug 2018 16:56:25 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"base":"stations","main":{"temp":17.38,"pressure":1013,"humidity":77,"temp_min":16,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":270},"clouds":{"all":20},"dt":1535473200,"sys":{"type":1,"id":5271,"message":0.0443,"country":"NO","sunrise":1535429637,"sunset":1535482625},"id":3163392,"name":"Alesund","cod":200}
+
+Tue, 28 Aug 2018 17:24:39 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"base":"stations","main":{"temp":16.71,"pressure":1013,"humidity":77,"temp_min":15,"temp_max":18},"visibility":10000,"wind":{"speed":3.6,"deg":260},"clouds":{"all":20},"dt":1535475000,"sys":{"type":1,"id":5271,"message":0.002,"country":"NO","sunrise":1535429640,"sunset":1535482622},"id":3163392,"name":"Alesund","cod":200}
