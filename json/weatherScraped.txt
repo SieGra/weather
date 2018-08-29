@@ -13,3 +13,180 @@ Tue, 28 Aug 2018 16:56:25 GMT
 
 Tue, 28 Aug 2018 17:24:39 GMT
 {"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"base":"stations","main":{"temp":16.71,"pressure":1013,"humidity":77,"temp_min":15,"temp_max":18},"visibility":10000,"wind":{"speed":3.6,"deg":260},"clouds":{"all":20},"dt":1535475000,"sys":{"type":1,"id":5271,"message":0.002,"country":"NO","sunrise":1535429640,"sunset":1535482622},"id":3163392,"name":"Alesund","cod":200}
+
+Tue, 28 Aug 2018 22:38:26 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03n"}],"base":"stations","main":{"temp":12.42,"pressure":1012,"humidity":87,"temp_min":12,"temp_max":13},"visibility":10000,"wind":{"speed":4.6,"deg":60},"clouds":{"all":48},"dt":1535493000,"sys":{"type":1,"id":5271,"message":0.0021,"country":"NO","sunrise":1535429676,"sunset":1535482578},"id":3163392,"name":"Alesund","cod":200}
+
+Tue, 28 Aug 2018 22:39:09 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03n"}],"base":"stations","main":{"temp":12.42,"pressure":1012,"humidity":87,"temp_min":12,"temp_max":13},"visibility":10000,"wind":{"speed":4.6,"deg":60},"clouds":{"all":48},"dt":1535493000,"sys":{"type":1,"id":5271,"message":0.0021,"country":"NO","sunrise":1535429676,"sunset":1535482578},"id":3163392,"name":"Alesund","cod":200}
+
+Tue, 28 Aug 2018 22:39:26 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03n"}],"base":"stations","main":{"temp":12.42,"pressure":1012,"humidity":87,"temp_min":12,"temp_max":13},"visibility":10000,"wind":{"speed":4.6,"deg":60},"clouds":{"all":48},"dt":1535493000,"sys":{"type":1,"id":5271,"message":0.0021,"country":"NO","sunrise":1535429676,"sunset":1535482578},"id":3163392,"name":"Alesund","cod":200}
+
+Tue, 28 Aug 2018 22:49:26 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03n"}],"base":"stations","main":{"temp":12.43,"pressure":1012,"humidity":93,"temp_min":12,"temp_max":13},"visibility":10000,"wind":{"speed":4.1,"deg":60},"clouds":{"all":48},"dt":1535494800,"sys":{"type":1,"id":5271,"message":0.0035,"country":"NO","sunrise":1535429677,"sunset":1535482577},"id":3163392,"name":"Alesund","cod":200}
+
+Tue, 28 Aug 2018 22:59:26 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03n"}],"base":"stations","main":{"temp":12.43,"pressure":1012,"humidity":93,"temp_min":12,"temp_max":13},"visibility":10000,"wind":{"speed":4.1,"deg":60},"clouds":{"all":48},"dt":1535494800,"sys":{"type":1,"id":5271,"message":0.0021,"country":"NO","sunrise":1535429678,"sunset":1535482576},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 08:52:27 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0047,"country":"NO","sunrise":1535516145,"sunset":1535568894},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 08:53:14 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0047,"country":"NO","sunrise":1535516145,"sunset":1535568894},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 08:54:59 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0047,"country":"NO","sunrise":1535516145,"sunset":1535568894},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:10:19 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:11:19 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:11:30 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:12:19 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:12:35 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:12:56 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:16:45 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:16:49 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:18:06 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:18:41 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:18:54 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:19:28 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:19:44 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:19:53 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:20:16 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:20:18 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.63,"pressure":1010,"humidity":67,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":3.1,"deg":130},"clouds":{"all":75},"dt":1535530800,"sys":{"type":1,"id":5271,"message":0.0022,"country":"NO","sunrise":1535516147,"sunset":1535568892},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:20:45 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:21:06 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:21:39 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:22:35 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:23:59 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:24:24 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:24:40 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:25:02 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:25:29 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:25:37 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:25:51 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:26:16 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:26:27 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:26:35 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:26:44 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:28:33 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:28:47 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:28:56 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:29:10 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:30:44 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.003,"country":"NO","sunrise":1535516148,"sunset":1535568890},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:30:59 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:31:11 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:33:01 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:33:30 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:34:49 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:35:13 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:35:31 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:36:03 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:36:30 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:36:42 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:36:59 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:39:28 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:39:40 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:39:52 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}
+
+Wed, 29 Aug 2018 09:40:05 GMT
+{"coord":{"lon":6.15,"lat":62.47},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":15.64,"pressure":1010,"humidity":77,"temp_min":14,"temp_max":18},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1535532600,"sys":{"type":1,"id":5271,"message":0.0034,"country":"NO","sunrise":1535516149,"sunset":1535568889},"id":3163392,"name":"Alesund","cod":200}

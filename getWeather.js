@@ -8,21 +8,21 @@ const myEmitter = new events.EventEmitter();
 
 const adress = `https://api.openweathermap.org/data/2.5/weather?q=alesund&units=metric&APPID=${key.weather}`;
 function get (){
-    myEmitter.addListener("done", () => {
+    myEmitter.addListener('done', () => {
         let time = new Date().toUTCString();
-        console.log("Weather scraped at " + time + " UTC");
+        console.log('Weather scraped at ' + time + ' UTC');
     });
 
     http.get(adress, (req, res) => {
         let body = '';
         
-        req.on("data", (data) => {
+        req.on('data', (data) => {
             body += data;
         });
         
-        req.on("end", () => {
+        req.on('end', () => {
             let parsed = JSON.parse(body);
-            myEmitter.emit("done", parsed);
+            myEmitter.emit('done', parsed);
             myEmitter.removeAllListeners();
         });
     });
